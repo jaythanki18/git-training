@@ -142,3 +142,6 @@
 * git branch -f three C2 
 
 ![alt text]({3FD61AC4-EF61-47EF-83AD-C52AF26D2606}.png)
+
+# All git task completed
+![alt text]({35DBA601-9D46-4F10-AC0E-E6F116AB118A}.png)
