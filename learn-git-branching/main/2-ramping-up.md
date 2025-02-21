@@ -6,14 +6,14 @@
 ```
 1. git checkout c4
 ```
-![alt text]({653E8A3D-102D-450B-B51F-A3A67FEB24DB}.png)
+![alt text](5.png)
 
 ## Task 2
 ```
 1. git checkout c4
 2. git checkout c4^
 ```
-![alt text]({4233E050-48BC-4A24-9F20-8A680426A86D}.png)
+![alt text](6.png)
 
 ## Task 3
 ```
@@ -21,7 +21,7 @@
 2. git branch -f main C6
 3. git branch -f bugFix C1~1
 ```
-![alt text]({995F4DD2-7B38-4D32-89E5-EDC4C5E9521D}.png)
+![alt text](7.png)
 
 ## Task 4
 ```
@@ -29,4 +29,4 @@
 2. git checkout pushed
 3. git revert C2
 ```
-![alt text]({51E5D8E2-611D-42B9-BDC3-18D836D71560}.png)
+![alt text](8.png)
