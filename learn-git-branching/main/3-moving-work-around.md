@@ -9,6 +9,6 @@
 
 ## Task 2
 ```
-1. git rebase -i C5~4
+1. git rebase -i main~4
 ```
 ![alt text](10.png)
